@@ -1,0 +1,52 @@
+{
+  "game": "DOORS",
+  "slug": "doors",
+  "updatedAt": "2026-10-11T08:05:00+09:00",
+  "codes": [
+    {
+      "code": "PROTOCOL",
+      "reward": "20 Stardust",
+      "status": "active",
+      "firstSeen": "2026-10-03",
+      "lastChecked": "2026-10-11",
+      "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/rbxdoorsnews/status/2106126789223526715",
+        "https://doorsgame.wiki/wiki/Update_Logs/2026",
+        "https://gamewalkthrough.net/codes/doors"
+      ],
+      "verification": "two-sources"
+    },
+    {
+      "code": "ACCESS GRANTED",
+      "reward": "150 Knobs",
+      "status": "active",
+      "firstSeen": "2026-10-03",
+      "lastChecked": "2026-10-11",
+      "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/rbxdoorsnews/status/2106126789223526715",
+        "https://doorsgame.wiki/wiki/Update_Logs/2026",
+        "https://gamewalkthrough.net/codes/doors"
+      ],
+      "verification": "two-sources"
+    },
+    {
+      "code": "ACCESS DENIED",
+      "reward": "150 Knobs",
+      "status": "active",
+      "firstSeen": "2026-10-03",
+      "lastChecked": "2026-10-11",
+      "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/rbxdoorsnews/status/2106126789223526715",
+        "https://doorsgame.wiki/wiki/Update_Logs/2026",
+        "https://gamewalkthrough.net/codes/doors"
+      ],
+      "verification": "two-sources"
+    }
+  ]
+}

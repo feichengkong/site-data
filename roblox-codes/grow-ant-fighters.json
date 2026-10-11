@@ -1,0 +1,20 @@
+{
+  "game": "Grow Ant Fighters",
+  "slug": "grow-ant-fighters",
+  "updatedAt": "2026-10-11T08:00:00+09:00",
+  "codes": [
+    {
+      "code": "FALLUPDATE",
+      "reward": "Goodies (not specified)",
+      "status": "active",
+      "firstSeen": "2026-10-01",
+      "lastChecked": "2026-10-11",
+      "source": "https://x.com/jahameb_/status/2105782365968842961",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/jahameb_/status/2105782365968842961"
+      ],
+      "verification": "official"
+    }
+  ]
+}

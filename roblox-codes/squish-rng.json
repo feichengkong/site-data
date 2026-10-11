@@ -1,0 +1,20 @@
+{
+  "game": "Squish RNG",
+  "slug": "squish-rng",
+  "updatedAt": "2026-10-11T08:00:00+09:00",
+  "codes": [
+    {
+      "code": "RELEASE",
+      "reward": "Free Mythic Luck Potion",
+      "status": "active",
+      "firstSeen": "2026-09-29",
+      "lastChecked": "2026-10-11",
+      "source": "https://x.com/iPuugg/status/2105035393435402496",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/iPuugg/status/2105035393435402496"
+      ],
+      "verification": "official"
+    }
+  ]
+}

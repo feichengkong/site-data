@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-11",
+  "puzzleNumber": 1218,
+  "verifiedAt": "2026-10-11T13:35:00+09:00",
+  "sources": [
+    "https://tryhardguides.com/nyt-connections-answers-october-11-2026/",
+    "https://connectionhint.net/hint/october-11-2026",
+    "https://www.forbes.com/sites/erikkain/2026/10/10/nyt-connections-1218-hints-clues-answers-sunday-october-11/",
+    "https://mashable.com/article/nyt-connections-hint-answer-today-october-11-2026"
+  ],
+  "groups": [
+    {
+      "color": "yellow",
+      "category": "PUT TO USE",
+      "words": [
+        "APPLY",
+        "HARNESS",
+        "UTILIZE",
+        "WIELD"
+      ],
+      "hint": "Think of what you do with a tool once you finally pick it up.",
+      "explanation": "Each word means to put something to work: you apply a rule, harness energy, utilize a resource, or wield a sword. They're plain synonyms for making use of something.",
+      "colorVerified": true,
+      "categoryVerified": true,
+      "redHerrings": [
+        {
+          "word": "EMPLOY",
+          "why": "EMPLOY also means to put to use, but it belongs to the group of words with a hidden ending."
+        }
+      ]
+    },
+    {
+      "color": "green",
+      "category": "MONTHLY BILLS",
+      "words": [
+        "CABLE",
+        "ELECTRICITY",
+        "INTERNET",
+        "PHONE"
+      ],
+      "hint": "These arrive in your inbox or mailbox every few weeks and keep the house running.",
+      "explanation": "All four are recurring household services you pay for each month: cable TV, electricity, internet access, and a phone plan.",
+      "colorVerified": true,
+      "categoryVerified": true,
+      "redHerrings": [
+        {
+          "word": "MAP",
+          "why": "MAP or REGISTRATION might feel like paperwork you pay for, but they live in the car, not on a utility bill."
+        }
+      ]
+    },
+    {
+      "color": "blue",
+      "category": "THINGS YOU MIGHT FIND IN A GLOVE COMPARTMENT",
+      "words": [
+        "GLOVES",
+        "ICE SCRAPER",
+        "MAP",
+        "REGISTRATION"
+      ],
+      "hint": "Pop open the small hatch in front of the passenger seat.",
+      "explanation": "These are items people commonly stash in a car's glove box: the vehicle registration, a paper map, a winter ice scraper, and, fittingly, actual gloves.",
+      "colorVerified": true,
+      "categoryVerified": true,
+      "redHerrings": [
+        {
+          "word": "GLOVES",
+          "why": "GLOVES looks like a pun that could go elsewhere, but it really is something kept in the glove compartment."
+        },
+        {
+          "word": "PHONE",
+          "why": "PHONE might seem like a car item, but it belongs with the monthly bills."
+        }
+      ]
+    },
+    {
+      "color": "purple",
+      "category": "ENDING IN GAMBITS",
+      "words": [
+        "EMPLOY",
+        "PATRICK",
+        "PERUSE",
+        "SYNTACTIC"
+      ],
+      "hint": "Look at the tail end of each word for a sneaky scheme.",
+      "explanation": "Each word ends in a word for a crafty maneuver: emPLOY, paTRICK, peRUSE, synTACTIC. The rest of the word is just camouflage.",
+      "colorVerified": true,
+      "categoryVerified": true,
+      "redHerrings": [
+        {
+          "word": "EMPLOY",
+          "why": "EMPLOY tempts you into the 'put to use' group with APPLY and UTILIZE."
+        },
+        {
+          "word": "PERUSE",
+          "why": "PERUSE looks like a reading verb, which can pull attention away from its hidden RUSE."
+        }
+      ]
+    }
+  ]
+}

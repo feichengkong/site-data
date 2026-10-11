@@ -1,0 +1,20 @@
+{
+  "game": "Fright Fighters",
+  "slug": "fright-fighters",
+  "updatedAt": "2026-10-11T07:55:00+09:00",
+  "codes": [
+    {
+      "code": "FRIGHTFULHALLOWS",
+      "reward": "666 Favor, a title and the Rage Pumpkin skin",
+      "status": "unverified",
+      "firstSeen": "2026-10-11",
+      "lastChecked": "2026-10-11",
+      "source": "https://x.com/frighters_news/status/2109013773948530813",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/frighters_news/status/2109013773948530813"
+      ],
+      "verification": null
+    }
+  ]
+}
