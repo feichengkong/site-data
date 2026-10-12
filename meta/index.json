@@ -12,17 +12,19 @@
     "punch-a-planet.json",
     "running-from-the-internet.json",
     "squish-rng.json",
+    "steal-a-balloon.json",
     "the-culling.json"
   ],
   "roblox-codes-meta": [
     "doors.json",
     "fashion-disaster.json",
     "forge-city.json",
-    "huss-valley.json"
+    "huss-valley.json",
+    "steal-a-balloon.json"
   ],
   "connections-data": [
     "2026-10-11.json",
     "2026-10-12.json"
   ],
-  "files": 19
+  "files": 21
 }
