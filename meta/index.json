@@ -16,7 +16,8 @@
     "fashion-disaster.json"
   ],
   "connections-data": [
-    "2026-10-11.json"
+    "2026-10-11.json",
+    "2026-10-12.json"
   ],
-  "files": 13
+  "files": 14
 }

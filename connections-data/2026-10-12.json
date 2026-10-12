@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-12",
+  "puzzleNumber": 1317,
+  "verifiedAt": "2026-10-12T13:18:26+09:00",
+  "sources": [
+    "https://www.nytimes.com/svc/connections/v2/2026-10-12.json",
+    "https://tryhardguides.com/nyt-connections-answers/"
+  ],
+  "groups": [
+    {
+      "color": null,
+      "colorVerified": false,
+      "category": "STATUS",
+      "categoryVerified": true,
+      "words": [
+        "CONDITION",
+        "SHAPE",
+        "SITUATION",
+        "STATE"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    },
+    {
+      "color": null,
+      "colorVerified": false,
+      "category": "TOLERATE",
+      "categoryVerified": true,
+      "words": [
+        "BEAR",
+        "HANDLE",
+        "STAND",
+        "WEATHER"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    },
+    {
+      "color": null,
+      "colorVerified": false,
+      "category": "WORD SHORTENINGS, OFTEN",
+      "categoryVerified": true,
+      "words": [
+        "ABBREVIATION",
+        "CONTRACTION",
+        "ELISION",
+        "NICKNAME"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    },
+    {
+      "color": null,
+      "colorVerified": false,
+      "category": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+      "categoryVerified": true,
+      "words": [
+        "ALKYLAMIDE",
+        "CALAMARI",
+        "MANDARIN",
+        "MELAMINE"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    }
+  ]
+}
