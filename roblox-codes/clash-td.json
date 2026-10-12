@@ -1,0 +1,35 @@
+{
+  "game": "Clash TD",
+  "slug": "clash-td",
+  "updatedAt": "2026-10-13T02:20:00+09:00",
+  "codes": [
+    {
+      "code": "TWITTER",
+      "reward": "300 Scrap",
+      "status": "active",
+      "firstSeen": "2026-10-07",
+      "lastChecked": "2026-10-13",
+      "source": "https://x.com/ClashTD_Roblox/status/2109690562555355196",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/ClashTD_Roblox/status/2109690562555355196",
+        "https://x.com/ClashTD_Roblox/status/2109328173066535239",
+        "https://x.com/ClashTD_Roblox/status/2108603396601028685"
+      ],
+      "verification": "official"
+    },
+    {
+      "code": "STARTERKIT",
+      "reward": "500 Scrap",
+      "status": "active",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-13",
+      "source": "https://x.com/ClashTD_Roblox/status/2108603396601028685",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/ClashTD_Roblox/status/2108603396601028685"
+      ],
+      "verification": "official"
+    }
+  ]
+}

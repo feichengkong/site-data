@@ -1,7 +1,7 @@
 {
   "game": "Fashion Disaster",
   "slug": "fashion-disaster",
-  "updatedAt": "2026-10-11T08:05:00+09:00",
+  "updatedAt": "2026-10-13T02:20:00+09:00",
   "codes": [
     {
       "code": "BAILOUT",
@@ -124,6 +124,21 @@
       "sourceType": "other",
       "firstSeen": "2026-10-11",
       "lastChecked": "2026-10-11"
+    },
+    {
+      "code": "ASHLEYBUNNI",
+      "reward": "Creator code reward (not specified in post)",
+      "status": "active",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-13",
+      "source": "https://x.com/_FashionDisastr/status/2108627701057671211",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/_FashionDisastr/status/2108627701057671211",
+        "https://x.com/TheDTINews/status/2109690566804193393",
+        "https://x.com/TheDTINews/status/2108630215765401976"
+      ],
+      "verification": "official"
     }
   ]
 }
