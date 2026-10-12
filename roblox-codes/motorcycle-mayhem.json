@@ -1,0 +1,20 @@
+{
+  "game": "Motorcycle Mayhem",
+  "slug": "motorcycle-mayhem",
+  "updatedAt": "2026-10-13T08:10:00+09:00",
+  "codes": [
+    {
+      "code": "INSANE320K",
+      "reward": "320K likes milestone reward (not specified in post)",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/motomayhemrblx/status/2109747376110158195"
+      ],
+      "source": "https://x.com/motomayhemrblx/status/2109747376110158195",
+      "sourceType": "x",
+      "firstSeen": "2026-10-13",
+      "lastChecked": "2026-10-13"
+    }
+  ]
+}
