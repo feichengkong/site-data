@@ -1,10 +1,11 @@
 {
   "date": "2026-10-12",
-  "puzzleNumber": 1317,
+  "puzzleNumber": 1219,
   "verifiedAt": "2026-10-12T13:18:26+09:00",
   "sources": [
     "https://www.nytimes.com/svc/connections/v2/2026-10-12.json",
-    "https://tryhardguides.com/nyt-connections-answers/"
+    "https://tryhardguides.com/nyt-connections-answers/",
+    "https://mashable.com/article/nyt-connections-hint-answer-today-october-12-2026"
   ],
   "groups": [
     {
@@ -18,9 +19,14 @@
         "SITUATION",
         "STATE"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "Think of how you'd answer 'How are things going?'",
+      "explanation": "These four words all describe the current standing or circumstances of something, as in 'in good ___'.",
+      "redHerrings": [
+        {
+          "word": "STAND",
+          "why": "It can suggest a position or standing, but here it means to put up with something."
+        }
+      ]
     },
     {
       "color": null,
@@ -33,9 +39,14 @@
         "STAND",
         "WEATHER"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "What you do with something unpleasant you can't avoid.",
+      "explanation": "Each word means to endure or put up with something, as in 'I can't ___ it'.",
+      "redHerrings": [
+        {
+          "word": "HANDLE",
+          "why": "It also looks like an online name, which tempts a link to the shortened-word group."
+        }
+      ]
     },
     {
       "color": null,
@@ -48,9 +59,14 @@
         "ELISION",
         "NICKNAME"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "Ways to make a word or name take up less room.",
+      "explanation": "Each is a way words commonly get shortened: dropping letters, merging words with an apostrophe, omitting sounds, or a short familiar name.",
+      "redHerrings": [
+        {
+          "word": "STATE",
+          "why": "It can be abbreviated, but it belongs with the words about circumstances."
+        }
+      ]
     },
     {
       "color": null,
@@ -63,9 +79,14 @@
         "MANDARIN",
         "MELAMINE"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "Look for the map hiding inside the spelling.",
+      "explanation": "Each word can be split entirely into two-letter U.S. state codes: CA-LA-MA-RI, MA-ND-AR-IN, ME-LA-MI-NE, AL-KY-LA-MI-DE.",
+      "redHerrings": [
+        {
+          "word": "STATE",
+          "why": "It points straight at U.S. states, but it is not built from postal codes."
+        }
+      ]
     }
   ]
 }

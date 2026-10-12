@@ -6,6 +6,7 @@
     "fashion-disaster.json",
     "fright-fighters.json",
     "grow-ant-fighters.json",
+    "huss-valley.json",
     "punch-a-planet.json",
     "running-from-the-internet.json",
     "squish-rng.json",
@@ -13,11 +14,12 @@
   ],
   "roblox-codes-meta": [
     "doors.json",
-    "fashion-disaster.json"
+    "fashion-disaster.json",
+    "huss-valley.json"
   ],
   "connections-data": [
     "2026-10-11.json",
     "2026-10-12.json"
   ],
-  "files": 14
+  "files": 16
 }
