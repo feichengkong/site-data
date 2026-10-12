@@ -1,0 +1,49 @@
+{
+  "game": "Prism Runway Show",
+  "slug": "prism-runway-show",
+  "updatedAt": "2026-10-12T17:05:00+09:00",
+  "codes": [
+    {
+      "code": "THANKYOUSTYLISTS",
+      "reward": "Rollcake Backpack",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/PrismRunwayShow/status/2109549232269250897",
+        "https://www.youtube.com/shorts/j0GonXhpJxY"
+      ],
+      "source": "https://x.com/PrismRunwayShow/status/2109549232269250897",
+      "sourceType": "x",
+      "firstSeen": "2026-10-12",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "code": "MAKEAWISH",
+      "reward": "Dessert Dress Top",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/PrismRunwayShow/status/2105567747816267880",
+        "https://www.youtube.com/shorts/U_e8rNuRew8"
+      ],
+      "source": "https://x.com/PrismRunwayShow/status/2105567747816267880",
+      "sourceType": "x",
+      "firstSeen": "2026-10-01",
+      "lastChecked": "2026-10-12"
+    },
+    {
+      "code": "PANCAKEPARTY",
+      "reward": "Pancake Hat",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/PrismRunwayShow/status/2102328488401539511",
+        "https://www.youtube.com/shorts/58z1l65Qs1U"
+      ],
+      "source": "https://x.com/PrismRunwayShow/status/2102328488401539511",
+      "sourceType": "x",
+      "firstSeen": "2026-09-22",
+      "lastChecked": "2026-10-12"
+    }
+  ]
+}
