@@ -1,7 +1,7 @@
 {
   "game": "Prism Runway Show",
   "slug": "prism-runway-show",
-  "updatedAt": "2026-10-13T13:40:00+09:00",
+  "updatedAt": "2026-10-13T14:05:00+09:00",
   "codes": [
     {
       "code": "THANKYOUSTYLISTS",
@@ -43,6 +43,34 @@
       "source": "https://x.com/PrismRunwayShow/status/2102328488401539511",
       "sourceType": "x",
       "firstSeen": "2026-09-22",
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "code": "SWEET1STCELEBRATION",
+      "reward": "Dessert Dress Bottom",
+      "status": "active",
+      "verification": "two-sources",
+      "sources": [
+        "https://tryhardguides.com/prism-runway-show-codes/",
+        "https://urgametips.com/prism-runway-show-codes/"
+      ],
+      "source": "https://tryhardguides.com/prism-runway-show-codes/",
+      "sourceType": "other",
+      "firstSeen": "2026-10-13",
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "code": "ILOVEPRISM",
+      "reward": "100 Coins",
+      "status": "active",
+      "verification": "two-sources",
+      "sources": [
+        "https://tryhardguides.com/prism-runway-show-codes/",
+        "https://urgametips.com/prism-runway-show-codes/"
+      ],
+      "source": "https://tryhardguides.com/prism-runway-show-codes/",
+      "sourceType": "other",
+      "firstSeen": "2026-10-13",
       "lastChecked": "2026-10-13"
     }
   ]
