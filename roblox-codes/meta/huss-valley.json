@@ -1,8 +1,11 @@
 {
+  "description": "Huss Valley is a Roblox tag game where players chase and catch each other using special abilities. Codes give free gems, coin and gem boosts, emotes and titles.",
   "redeemSteps": [
-    "Launch Huss Valley on Roblox",
-    "Open the Menu and select CODES",
-    "Enter the code exactly and press REDEEM"
+    "Open Huss Valley on Roblox.",
+    "Click the MENU button and select CODES.",
+    "Type or paste the code into the ENTER CODE box exactly as written.",
+    "Click REDEEM and check the message before trying another code."
   ],
-  "description": "Huss Valley is a Roblox catch-and-tag game with abilities, knives, and cosmetics. Redeem codes for gems, coin and gem boosts, emotes, and titles to speed up your loadout."
+  "stepsSource": "https://beebom.com/huss-valley-codes/",
+  "stepsChecked": "2026-10-13"
 }

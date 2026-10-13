@@ -20,9 +20,14 @@
         "SENSE",
         "TASTE"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "Think of what a good critic or curator is said to have.",
+      "explanation": "Each word names a natural knack for judging quality or style, as in 'she has a real ___ for design.'",
+      "redHerrings": [
+        {
+          "word": "LIPS",
+          "why": "It's a part of the face like EYE, but it belongs with the words that complete a common phrase."
+        }
+      ]
     },
     {
       "color": "green",
@@ -35,9 +40,18 @@
         "TETHER",
         "TIE"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "What you'd do to a boat at the dock or a horse at a post.",
+      "explanation": "All four mean to secure one thing to another, usually with rope or cord.",
+      "redHerrings": [
+        {
+          "word": "BELT",
+          "why": "A belt can strap something down, but here it's an award given to fight champions."
+        },
+        {
+          "word": "ENDS",
+          "why": "The ends of a rope are what get knotted, but this word completes a phrase with the same adjective as the other trick words."
+        }
+      ]
     },
     {
       "color": "blue",
@@ -50,9 +64,14 @@
         "JACKET",
         "RING"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "Think about what the winners get to take home.",
+      "explanation": "Each is an award handed to sports champions: a boxing or wrestling title belt, the Stanley Cup or World Cup, the jacket given to the Masters golf winner, and a ring for winning the Super Bowl or NBA Finals.",
+      "redHerrings": [
+        {
+          "word": "TIE",
+          "why": "It's something you wear with a JACKET and also a result in sports, but here it means to secure with a knot."
+        }
+      ]
     },
     {
       "color": "purple",
@@ -65,9 +84,14 @@
         "ENDS",
         "LIPS"
       ],
-      "hint": "",
-      "explanation": "",
-      "redHerrings": []
+      "hint": "Put one short adjective in front of each, one that's the opposite of tight.",
+      "explanation": "Each word follows the same adjective, the opposite of 'tight', to form a familiar phrase: an unpredictable person, coins rattling in your pocket, unfinished tasks, and someone who can't keep a secret.",
+      "redHerrings": [
+        {
+          "word": "EYE",
+          "why": "It's a part of the face like LIPS, but it belongs with the words about good judgment."
+        }
+      ]
     }
   ]
 }

@@ -1,8 +1,12 @@
 {
+  "description": "Forge City is a Roblox game by Bumpy Gamez where you forge weapons, hatch pets and help defend the city. Codes give free rewards such as auras, Fortune Wheel spins and boosts.",
   "redeemSteps": [
-    "Launch Forge City on Roblox",
-    "Open the SHOP and go to CODES",
-    "Enter the code exactly and redeem it"
+    "Open Forge City on Roblox.",
+    "Open the SHOP.",
+    "Go to the CODES section.",
+    "Type or paste the code exactly as written and redeem it."
   ],
-  "description": "Forge City is a Roblox game where you forge legendary weapons, roll mutations, hatch pets, fight the Watcher Dragon, and defend the city from zombies. Codes give Fortune Wheel spins, luck and cash boosts, and Class Tokens."
+  "stepsSource": "https://x.com/bumpygamez/status/2109574067670139136",
+  "stepsChecked": "2026-10-13",
+  "ageRestricted": true
 }
