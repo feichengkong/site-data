@@ -2,6 +2,7 @@
   "roblox-codes": [
     "anime-ball-duels.json",
     "ankle-breakers.json",
+    "beyond-the-cabin.json",
     "car-spotting.json",
     "clash-td.json",
     "clicker-horizons.json",
@@ -13,10 +14,12 @@
     "grow-ant-fighters.json",
     "huss-valley.json",
     "motorcycle-mayhem.json",
+    "mutant-garden.json",
     "prism-runway-show.json",
     "punch-a-planet.json",
     "running-from-the-internet.json",
     "slap-a-chicken.json",
+    "spin-a-volleyball-card.json",
     "squish-rng.json",
     "steal-a-balloon.json",
     "the-culling.json"
@@ -28,6 +31,7 @@
     "fashion-disaster.json",
     "forge-city.json",
     "huss-valley.json",
+    "mutant-garden.json",
     "prism-runway-show.json",
     "slap-a-chicken.json",
     "steal-a-balloon.json"
@@ -37,5 +41,5 @@
     "2026-10-12.json",
     "2026-10-13.json"
   ],
-  "files": 32
+  "files": 36
 }

@@ -1,20 +1,22 @@
 {
   "game": "DOORS",
   "slug": "doors",
-  "updatedAt": "2026-10-11T08:05:00+09:00",
+  "updatedAt": "2026-10-13T22:16:00+09:00",
   "codes": [
     {
       "code": "PROTOCOL",
       "reward": "20 Stardust",
       "status": "active",
       "firstSeen": "2026-10-03",
-      "lastChecked": "2026-10-11",
+      "lastChecked": "2026-10-13T22:10:00+09:00",
       "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
-      "sourceType": "x",
+      "sourceType": "other",
       "sources": [
         "https://x.com/rbxdoorsnews/status/2106126789223526715",
         "https://doorsgame.wiki/wiki/Update_Logs/2026",
-        "https://gamewalkthrough.net/codes/doors"
+        "https://doorsgame.wiki/wiki/Codes",
+        "https://gamewalkthrough.net/codes/doors",
+        "https://www.supercheats.com/doors-codes"
       ],
       "verification": "two-sources"
     },
@@ -23,12 +25,13 @@
       "reward": "150 Knobs",
       "status": "active",
       "firstSeen": "2026-10-03",
-      "lastChecked": "2026-10-11",
+      "lastChecked": "2026-10-13T22:10:00+09:00",
       "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
-      "sourceType": "x",
+      "sourceType": "other",
       "sources": [
         "https://x.com/rbxdoorsnews/status/2106126789223526715",
         "https://doorsgame.wiki/wiki/Update_Logs/2026",
+        "https://doorsgame.wiki/wiki/Codes",
         "https://gamewalkthrough.net/codes/doors"
       ],
       "verification": "two-sources"
@@ -38,13 +41,29 @@
       "reward": "150 Knobs",
       "status": "active",
       "firstSeen": "2026-10-03",
-      "lastChecked": "2026-10-11",
+      "lastChecked": "2026-10-13T22:10:00+09:00",
       "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
-      "sourceType": "x",
+      "sourceType": "other",
       "sources": [
         "https://x.com/rbxdoorsnews/status/2106126789223526715",
         "https://doorsgame.wiki/wiki/Update_Logs/2026",
+        "https://doorsgame.wiki/wiki/Codes",
         "https://gamewalkthrough.net/codes/doors"
+      ],
+      "verification": "two-sources"
+    },
+    {
+      "code": "REPRESSED",
+      "reward": "10 Stardust",
+      "status": "active",
+      "firstSeen": "2026-10-13",
+      "lastChecked": "2026-10-13T22:16:00+09:00",
+      "source": "https://doorsgame.wiki/wiki/Codes",
+      "sourceType": "other",
+      "sources": [
+        "https://doorsgame.wiki/wiki/Codes",
+        "https://www.supercheats.com/doors-codes",
+        "https://x.com/xDrip07/status/2107376983957258475"
       ],
       "verification": "two-sources"
     }
