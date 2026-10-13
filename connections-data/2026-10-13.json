@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-13",
+  "puzzleNumber": 1220,
+  "verifiedAt": "2026-10-13T13:12:36+09:00",
+  "sources": [
+    "https://www.nytimes.com/svc/connections/v2/2026-10-13.json",
+    "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-13-2026",
+    "https://tryhardguides.com/nyt-connections-answers/",
+    "https://www.technobezz.com/news/nyt-connections-1220-hints-and-solutions"
+  ],
+  "groups": [
+    {
+      "color": "yellow",
+      "colorVerified": true,
+      "category": "DISCERNMENT",
+      "categoryVerified": true,
+      "words": [
+        "EYE",
+        "FLAIR",
+        "SENSE",
+        "TASTE"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    },
+    {
+      "color": "green",
+      "colorVerified": true,
+      "category": "FASTEN",
+      "categoryVerified": true,
+      "words": [
+        "HITCH",
+        "LASH",
+        "TETHER",
+        "TIE"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    },
+    {
+      "color": "blue",
+      "colorVerified": true,
+      "category": "SPORTS CHAMPIONSHIP PRIZES",
+      "categoryVerified": true,
+      "words": [
+        "BELT",
+        "CUP",
+        "JACKET",
+        "RING"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    },
+    {
+      "color": "purple",
+      "colorVerified": true,
+      "category": "LOOSE ___",
+      "categoryVerified": true,
+      "words": [
+        "CANNON",
+        "CHANGE",
+        "ENDS",
+        "LIPS"
+      ],
+      "hint": "",
+      "explanation": "",
+      "redHerrings": []
+    }
+  ]
+}
