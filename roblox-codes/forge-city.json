@@ -1,31 +1,33 @@
 {
   "game": "Forge City",
   "slug": "forge-city",
-  "updatedAt": "2026-10-12T20:10:00+09:00",
+  "updatedAt": "2026-10-13T11:05:00+09:00",
   "codes": [
     {
       "code": "FORGECITY",
-      "reward": "2 free Fortune Wheel spins + 15 min +25% Luck",
+      "reward": "Royalty Aura",
       "status": "active",
       "firstSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastChecked": "2026-10-13",
       "source": "https://x.com/bumpygamez/status/2109574067670139136",
       "sourceType": "x",
       "sources": [
-        "https://x.com/bumpygamez/status/2109574067670139136"
+        "https://x.com/bumpygamez/status/2109574067670139136",
+        "https://x.com/bumpygamez/status/2109814784388645217"
       ],
       "verification": "official"
     },
     {
       "code": "FIRSTSPARK",
-      "reward": "15 min Cash income + 1 Class Token",
+      "reward": "Voltage Aura",
       "status": "active",
       "firstSeen": "2026-10-12",
-      "lastChecked": "2026-10-12",
+      "lastChecked": "2026-10-13",
       "source": "https://x.com/bumpygamez/status/2109574067670139136",
       "sourceType": "x",
       "sources": [
-        "https://x.com/bumpygamez/status/2109574067670139136"
+        "https://x.com/bumpygamez/status/2109574067670139136",
+        "https://x.com/bumpygamez/status/2109814784388645217"
       ],
       "verification": "official"
     }

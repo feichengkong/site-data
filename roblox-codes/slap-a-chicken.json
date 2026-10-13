@@ -1,0 +1,47 @@
+{
+  "game": "Slap a Chicken",
+  "slug": "slap-a-chicken",
+  "updatedAt": "2026-10-13T11:05:00+09:00",
+  "codes": [
+    {
+      "code": "SIXSEVEN",
+      "reward": "Code-only trail (not further specified)",
+      "status": "active",
+      "firstSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "source": "https://x.com/bumpygamez/status/2109811866499481608",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/bumpygamez/status/2109811866499481608",
+        "https://x.com/bumpygamez/status/2109814784388645217"
+      ],
+      "verification": "official"
+    },
+    {
+      "code": "SLAPACHICKEN",
+      "reward": "Code-only trail (not further specified)",
+      "status": "active",
+      "firstSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "source": "https://x.com/bumpygamez/status/2109814784388645217",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/bumpygamez/status/2109814784388645217"
+      ],
+      "verification": "official"
+    },
+    {
+      "code": "FORGECITY",
+      "reward": "Code-only trail (not further specified)",
+      "status": "active",
+      "firstSeen": "2026-10-13",
+      "lastChecked": "2026-10-13",
+      "source": "https://x.com/bumpygamez/status/2109814784388645217",
+      "sourceType": "x",
+      "sources": [
+        "https://x.com/bumpygamez/status/2109814784388645217"
+      ],
+      "verification": "official"
+    }
+  ]
+}
