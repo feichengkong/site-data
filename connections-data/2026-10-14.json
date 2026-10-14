@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-14",
+  "puzzleNumber": 1221,
+  "verifiedAt": "2026-10-14T13:18:49+09:00",
+  "sources": [
+    "https://www.nytimes.com/svc/connections/v2/2026-10-14.json",
+    "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-14-2026",
+    "https://tryhardguides.com/nyt-connections-answers/",
+    "https://www.technobezz.com/news/nyt-connections-1221-hints-and-solutions"
+  ],
+  "groups": [
+    {
+      "color": "yellow",
+      "colorVerified": true,
+      "category": "HINT",
+      "categoryVerified": true,
+      "words": [
+        "FLICKER",
+        "SUGGESTION",
+        "TRACE",
+        "WHIFF"
+      ],
+      "hint": "Each one is the tiniest amount, the faintest sign that something is there at all.",
+      "explanation": "All four words can mean a very small indication of something, as in 'a ___ of doubt' or 'not a ___ of scandal.'",
+      "redHerrings": [
+        {
+          "word": "FLASH",
+          "why": "A flash of insight sounds like a brief sign of something, but it belongs with the characters known by a 'The ___' name."
+        }
+      ]
+    },
+    {
+      "color": "green",
+      "colorVerified": true,
+      "category": "TENNIS SHOTS",
+      "categoryVerified": true,
+      "words": [
+        "SERVE",
+        "SLICE",
+        "SMASH",
+        "VOLLEY"
+      ],
+      "hint": "Moves a player makes with a racket at Wimbledon.",
+      "explanation": "These are standard strokes in a racket sport: the opening delivery, an underspin shot, a hard overhead put-away, and a ball struck before it bounces.",
+      "redHerrings": [
+        {
+          "word": "FUMBLE",
+          "why": "It's a sports term, but it's a football mistake, and it belongs with the words whose openings spell out a giant's chant."
+        },
+        {
+          "word": "FEED",
+          "why": "Coaches feed balls to players in practice, but it isn't a stroke; it belongs with the words whose openings spell out a giant's chant."
+        }
+      ]
+    },
+    {
+      "color": "blue",
+      "colorVerified": true,
+      "category": "SUPERHEROES, WITH \"THE\"",
+      "categoryVerified": true,
+      "words": [
+        "FLASH",
+        "HULK",
+        "PUNISHER",
+        "THING"
+      ],
+      "hint": "Comic-book characters who usually go by a name with a definite article in front.",
+      "explanation": "Each is a comic-book character commonly called 'The ___': The Flash from DC, plus The Hulk, The Punisher and The Thing from Marvel.",
+      "redHerrings": [
+        {
+          "word": "SMASH",
+          "why": "It's the Hulk's famous catchphrase, but here it's a racket stroke."
+        }
+      ]
+    },
+    {
+      "color": "purple",
+      "colorVerified": true,
+      "category": "STARTING WITH \"FEE, FI, FO, FUM\"",
+      "categoryVerified": true,
+      "words": [
+        "FEED",
+        "FIERY",
+        "FOMENT",
+        "FUMBLE"
+      ],
+      "hint": "A fairy-tale giant would notice this set first; say the start of each word out loud.",
+      "explanation": "This is a wordplay group: each word begins with one syllable of the giant's chant from Jack and the Beanstalk, in order (FEE-d, FI-ery, FO-ment, FUM-ble). The meanings of the words have nothing to do with each other.",
+      "redHerrings": [
+        {
+          "word": "FLICKER",
+          "why": "It starts with F like all four, but its opening sound doesn't match any syllable of the chant."
+        },
+        {
+          "word": "FLASH",
+          "why": "Another F-word that might tempt you, but it doesn't begin with a syllable from the chant."
+        }
+      ]
+    }
+  ]
+}

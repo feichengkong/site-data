@@ -1,7 +1,7 @@
 {
   "game": "Prism Runway Show",
   "slug": "prism-runway-show",
-  "updatedAt": "2026-10-13T14:05:00+09:00",
+  "updatedAt": "2026-10-14T10:00:10+09:00",
   "codes": [
     {
       "code": "THANKYOUSTYLISTS",
@@ -15,21 +15,22 @@
       "source": "https://www.youtube.com/shorts/j0GonXhpJxY",
       "sourceType": "official",
       "firstSeen": "2026-10-12",
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-14T10:00:10+09:00"
     },
     {
       "code": "MAKEAWISH",
       "reward": "Dessert Dress Top",
-      "status": "active",
+      "status": "expired",
       "verification": "official",
       "sources": [
         "https://x.com/PrismRunwayShow/status/2105567747816267880",
-        "https://www.youtube.com/shorts/U_e8rNuRew8"
+        "https://www.youtube.com/shorts/U_e8rNuRew8",
+        "https://urgametips.com/prism-runway-show-codes/"
       ],
       "source": "https://x.com/PrismRunwayShow/status/2105567747816267880",
       "sourceType": "x",
       "firstSeen": "2026-10-01",
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-14T10:00:10+09:00"
     },
     {
       "code": "PANCAKEPARTY",
@@ -43,7 +44,7 @@
       "source": "https://x.com/PrismRunwayShow/status/2102328488401539511",
       "sourceType": "x",
       "firstSeen": "2026-09-22",
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-14T10:00:10+09:00"
     },
     {
       "code": "SWEET1STCELEBRATION",
@@ -57,7 +58,7 @@
       "source": "https://tryhardguides.com/prism-runway-show-codes/",
       "sourceType": "other",
       "firstSeen": "2026-10-13",
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-14T10:00:10+09:00"
     },
     {
       "code": "ILOVEPRISM",
@@ -71,7 +72,7 @@
       "source": "https://tryhardguides.com/prism-runway-show-codes/",
       "sourceType": "other",
       "firstSeen": "2026-10-13",
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-14T10:00:10+09:00"
     }
   ]
 }

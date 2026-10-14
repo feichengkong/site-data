@@ -1,14 +1,14 @@
 {
   "game": "Car Spotting",
   "slug": "car-spotting",
-  "updatedAt": "2026-10-13T05:05:00+09:00",
+  "updatedAt": "2026-10-14T10:00:10+09:00",
   "codes": [
     {
       "code": "RELEASE",
       "reward": "Launch reward (not specified in post)",
       "status": "active",
       "firstSeen": "2026-10-13",
-      "lastChecked": "2026-10-13",
+      "lastChecked": "2026-10-14T10:00:10+09:00",
       "source": "https://x.com/carspottingrbx/status/2109715132758495661",
       "sourceType": "x",
       "sources": [
@@ -21,7 +21,7 @@
       "reward": "Launch reward (not specified in post)",
       "status": "active",
       "firstSeen": "2026-10-13",
-      "lastChecked": "2026-10-13",
+      "lastChecked": "2026-10-14T10:00:10+09:00",
       "source": "https://x.com/carspottingrbx/status/2109715132758495661",
       "sourceType": "x",
       "sources": [
@@ -34,7 +34,7 @@
       "reward": "Launch reward (not specified in post)",
       "status": "active",
       "firstSeen": "2026-10-13",
-      "lastChecked": "2026-10-13",
+      "lastChecked": "2026-10-14T10:00:10+09:00",
       "source": "https://x.com/carspottingrbx/status/2109715132758495661",
       "sourceType": "x",
       "sources": [

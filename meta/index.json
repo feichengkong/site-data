@@ -3,6 +3,7 @@
     "anime-ball-duels.json",
     "ankle-breakers.json",
     "beyond-the-cabin.json",
+    "build-a-dropper.json",
     "car-spotting.json",
     "clash-td.json",
     "clicker-horizons.json",
@@ -15,8 +16,10 @@
     "huss-valley.json",
     "motorcycle-mayhem.json",
     "mutant-garden.json",
+    "plus-1-bullet-training.json",
     "prism-runway-show.json",
     "punch-a-planet.json",
+    "raft-to-kraken.json",
     "running-from-the-internet.json",
     "slap-a-chicken.json",
     "spin-a-volleyball-card.json",
@@ -26,20 +29,26 @@
   ],
   "roblox-codes-meta": [
     "anime-ball-duels.json",
+    "beyond-the-cabin.json",
+    "build-a-dropper.json",
     "car-spotting.json",
     "doors.json",
     "fashion-disaster.json",
     "forge-city.json",
     "huss-valley.json",
     "mutant-garden.json",
+    "plus-1-bullet-training.json",
     "prism-runway-show.json",
+    "raft-to-kraken.json",
     "slap-a-chicken.json",
+    "spin-a-volleyball-card.json",
     "steal-a-balloon.json"
   ],
   "connections-data": [
     "2026-10-11.json",
     "2026-10-12.json",
-    "2026-10-13.json"
+    "2026-10-13.json",
+    "2026-10-14.json"
   ],
-  "files": 36
+  "files": 45
 }
