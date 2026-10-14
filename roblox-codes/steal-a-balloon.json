@@ -1,14 +1,14 @@
 {
   "game": "Steal a Balloon",
   "slug": "steal-a-balloon",
-  "updatedAt": "2026-10-13T22:15:00+09:00",
+  "updatedAt": "2026-10-14T22:00:00+09:00",
   "codes": [
     {
       "code": "RELEASE",
       "reward": "Launch reward (not specified in post)",
       "status": "active",
       "firstSeen": "2026-10-12",
-      "lastChecked": "2026-10-13T22:12:00+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://x.com/stealaballoon/status/2108932510512251215",
       "sourceType": "x",
       "sources": [
@@ -21,7 +21,7 @@
       "reward": "Launch reward (not specified in post)",
       "status": "active",
       "firstSeen": "2026-10-12",
-      "lastChecked": "2026-10-13T22:12:00+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://x.com/stealaballoon/status/2109627710595051572",
       "sourceType": "x",
       "sources": [
@@ -36,7 +36,7 @@
       "reward": "Launch reward (not specified in post)",
       "status": "active",
       "firstSeen": "2026-10-12",
-      "lastChecked": "2026-10-13T22:12:00+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://x.com/stealaballoon/status/2108932510512251215",
       "sourceType": "x",
       "sources": [
@@ -49,7 +49,7 @@
       "reward": "Launch reward (not specified in post)",
       "status": "active",
       "firstSeen": "2026-10-12",
-      "lastChecked": "2026-10-13T22:12:00+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://x.com/stealaballoon/status/2108932510512251215",
       "sourceType": "x",
       "sources": [

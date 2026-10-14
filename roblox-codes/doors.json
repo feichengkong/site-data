@@ -1,14 +1,14 @@
 {
   "game": "DOORS",
   "slug": "doors",
-  "updatedAt": "2026-10-14T10:00:10+09:00",
+  "updatedAt": "2026-10-14T22:00:00+09:00",
   "codes": [
     {
       "code": "PROTOCOL",
       "reward": "20 Stardust",
       "status": "active",
       "firstSeen": "2026-10-03",
-      "lastChecked": "2026-10-14T10:00:10+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
       "sourceType": "other",
       "sources": [
@@ -25,7 +25,7 @@
       "reward": "150 Knobs",
       "status": "active",
       "firstSeen": "2026-10-03",
-      "lastChecked": "2026-10-14T10:00:10+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
       "sourceType": "other",
       "sources": [
@@ -41,7 +41,7 @@
       "reward": "150 Knobs",
       "status": "active",
       "firstSeen": "2026-10-03",
-      "lastChecked": "2026-10-14T10:00:10+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://x.com/rbxdoorsnews/status/2106126789223526715",
       "sourceType": "other",
       "sources": [
@@ -57,7 +57,7 @@
       "reward": "10 Stardust",
       "status": "active",
       "firstSeen": "2026-10-13",
-      "lastChecked": "2026-10-14T10:00:10+09:00",
+      "lastChecked": "2026-10-14T22:00:00+09:00",
       "source": "https://doorsgame.wiki/wiki/Codes",
       "sourceType": "other",
       "sources": [

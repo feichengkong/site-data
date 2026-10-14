@@ -1,0 +1,59 @@
+{
+  "game": "Tag Ya It - Halloween",
+  "slug": "tag-ya-it",
+  "updatedAt": "2026-10-14T22:00:00+09:00",
+  "codes": [
+    {
+      "code": "RELEASE",
+      "reward": "Free in-game rewards",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/deeno_rblx/status/2110336271340150885"
+      ],
+      "source": "https://x.com/deeno_rblx/status/2110336271340150885",
+      "sourceType": "x",
+      "firstSeen": "2026-10-14",
+      "lastChecked": "2026-10-14T22:00:00+09:00"
+    },
+    {
+      "code": "TAGYAIT",
+      "reward": "Free in-game rewards",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/deeno_rblx/status/2110336271340150885"
+      ],
+      "source": "https://x.com/deeno_rblx/status/2110336271340150885",
+      "sourceType": "x",
+      "firstSeen": "2026-10-14",
+      "lastChecked": "2026-10-14T22:00:00+09:00"
+    },
+    {
+      "code": "HALLOWEEN",
+      "reward": "Free in-game rewards",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/deeno_rblx/status/2110336271340150885"
+      ],
+      "source": "https://x.com/deeno_rblx/status/2110336271340150885",
+      "sourceType": "x",
+      "firstSeen": "2026-10-14",
+      "lastChecked": "2026-10-14T22:00:00+09:00"
+    },
+    {
+      "code": "SPOOKY",
+      "reward": "Free in-game rewards",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/deeno_rblx/status/2110336271340150885"
+      ],
+      "source": "https://x.com/deeno_rblx/status/2110336271340150885",
+      "sourceType": "x",
+      "firstSeen": "2026-10-14",
+      "lastChecked": "2026-10-14T22:00:00+09:00"
+    }
+  ]
+}
