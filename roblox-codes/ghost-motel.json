@@ -1,0 +1,73 @@
+{
+  "game": "Ghost Motel",
+  "slug": "ghost-motel",
+  "updatedAt": "2026-10-15T09:56:52+09:00",
+  "codes": [
+    {
+      "code": "RELEASE",
+      "reward": "Free Ecto",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://www.roblox.com/games/93434070086264/Ghost-Motel",
+        "https://x.com/_DevSolo/status/2110442566793502940"
+      ],
+      "source": "https://www.roblox.com/games/93434070086264/Ghost-Motel",
+      "sourceType": "official",
+      "firstSeen": "2026-10-15",
+      "lastChecked": "2026-10-15T09:56:52+09:00"
+    },
+    {
+      "code": "GHOSTMOTEL",
+      "reward": "Listed in official Roblox game description (reward not specified)",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://www.roblox.com/games/93434070086264/Ghost-Motel"
+      ],
+      "source": "https://www.roblox.com/games/93434070086264/Ghost-Motel",
+      "sourceType": "official",
+      "firstSeen": "2026-10-15",
+      "lastChecked": "2026-10-15T09:56:52+09:00"
+    },
+    {
+      "code": "SPOOKY",
+      "reward": "Listed in official Roblox game description (reward not specified)",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://www.roblox.com/games/93434070086264/Ghost-Motel"
+      ],
+      "source": "https://www.roblox.com/games/93434070086264/Ghost-Motel",
+      "sourceType": "official",
+      "firstSeen": "2026-10-15",
+      "lastChecked": "2026-10-15T09:56:52+09:00"
+    },
+    {
+      "code": "BOO",
+      "reward": "Listed in official Roblox game description (reward not specified)",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://www.roblox.com/games/93434070086264/Ghost-Motel"
+      ],
+      "source": "https://www.roblox.com/games/93434070086264/Ghost-Motel",
+      "sourceType": "official",
+      "firstSeen": "2026-10-15",
+      "lastChecked": "2026-10-15T09:56:52+09:00"
+    },
+    {
+      "code": "HALLOWEEN",
+      "reward": "Listed in official Roblox game description (reward not specified)",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://www.roblox.com/games/93434070086264/Ghost-Motel"
+      ],
+      "source": "https://www.roblox.com/games/93434070086264/Ghost-Motel",
+      "sourceType": "official",
+      "firstSeen": "2026-10-15",
+      "lastChecked": "2026-10-15T09:56:52+09:00"
+    }
+  ]
+}

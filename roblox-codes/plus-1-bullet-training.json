@@ -1,14 +1,14 @@
 {
   "game": "+1 Bullet Training",
   "slug": "plus-1-bullet-training",
-  "updatedAt": "2026-10-14T10:00:10+09:00",
+  "updatedAt": "2026-10-15T09:56:52+09:00",
   "codes": [
     {
       "code": "TWITTER",
       "reward": "2x Luck for 15 min",
       "status": "active",
       "firstSeen": "2026-10-14",
-      "lastChecked": "2026-10-14T10:00:10+09:00",
+      "lastChecked": "2026-10-15T09:56:52+09:00",
       "source": "https://x.com/PlayTiltLabs/status/2110123914311684225",
       "sourceType": "x",
       "sources": [

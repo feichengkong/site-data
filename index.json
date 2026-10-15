@@ -12,6 +12,7 @@
     "fish-for-treasure.json",
     "forge-city.json",
     "fright-fighters.json",
+    "ghost-motel.json",
     "grow-ant-fighters.json",
     "huss-valley.json",
     "motorcycle-mayhem.json",
@@ -25,6 +26,7 @@
     "spin-a-volleyball-card.json",
     "squish-rng.json",
     "steal-a-balloon.json",
+    "steal-a-shop.json",
     "tag-ya-it.json",
     "the-culling.json"
   ],
@@ -36,6 +38,7 @@
     "doors.json",
     "fashion-disaster.json",
     "forge-city.json",
+    "ghost-motel.json",
     "huss-valley.json",
     "mutant-garden.json",
     "plus-1-bullet-training.json",
@@ -44,6 +47,7 @@
     "slap-a-chicken.json",
     "spin-a-volleyball-card.json",
     "steal-a-balloon.json",
+    "steal-a-shop.json",
     "tag-ya-it.json"
   ],
   "connections-data": [

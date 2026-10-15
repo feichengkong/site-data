@@ -1,0 +1,20 @@
+{
+  "game": "Steal a Shop",
+  "slug": "steal-a-shop",
+  "updatedAt": "2026-10-15T09:56:52+09:00",
+  "codes": [
+    {
+      "code": "STEALASHOP",
+      "reward": "Free cash",
+      "status": "active",
+      "verification": "official",
+      "sources": [
+        "https://x.com/DamablyStudios/status/2110519131472625923"
+      ],
+      "source": "https://x.com/DamablyStudios/status/2110519131472625923",
+      "sourceType": "x",
+      "firstSeen": "2026-10-15",
+      "lastChecked": "2026-10-15T09:56:52+09:00"
+    }
+  ]
+}
