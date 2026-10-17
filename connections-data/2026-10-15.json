@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-15",
+  "puzzleNumber": 1222,
+  "verifiedAt": "2026-10-15T13:17:54+09:00",
+  "sources": [
+    "https://www.nytimes.com/svc/connections/v2/2026-10-15.json",
+    "https://mashable.com/article/nyt-connections-hint-answer-today-october-15-2026",
+    "https://tryhardguides.com/nyt-connections-answers-october-15-2026/",
+    "https://sheets.works/connections"
+  ],
+  "groups": [
+    {
+      "color": "yellow",
+      "colorVerified": true,
+      "category": "WAYS TO PRESERVE FOOD",
+      "categoryVerified": true,
+      "words": [
+        "CURE",
+        "DRY",
+        "PICKLE",
+        "SMOKE"
+      ],
+      "hint": "Old-school kitchen methods for making meat, fish or vegetables last for months without a fridge.",
+      "explanation": "Each word is a traditional way to keep food from spoiling: curing with salt, drying out the moisture, pickling in brine or vinegar, and smoking over a slow fire.",
+      "redHerrings": [
+        {
+          "word": "CANNON",
+          "why": "It sounds a lot like 'canning,' which really is a way to keep food, but it's a wordplay word that becomes a landform when you change one letter."
+        },
+        {
+          "word": "FORGE",
+          "why": "Forging is an old craft involving heat and fire like smoking, but it's about shaping metal, not food."
+        }
+      ]
+    },
+    {
+      "color": "green",
+      "colorVerified": true,
+      "category": "THINGS YOU CAN SCORE IN SPORTS",
+      "categoryVerified": true,
+      "words": [
+        "BASKET",
+        "GOAL",
+        "RUN",
+        "TOUCHDOWN"
+      ],
+      "hint": "How teams put points on the board, one sport at a time.",
+      "explanation": "Each word is a scoring play in a particular sport: a basket in basketball, a goal in soccer or hockey, a run in baseball or cricket, and a touchdown in American football.",
+      "redHerrings": [
+        {
+          "word": "BASE",
+          "why": "Bases are central to baseball, but reaching one doesn't put points up; here it means the underside of something."
+        },
+        {
+          "word": "VOLLEY",
+          "why": "It's a real sports move in tennis and volleyball, but it's not a way to earn points, and it hides a letter-swap trick instead."
+        }
+      ]
+    },
+    {
+      "color": "blue",
+      "colorVerified": true,
+      "category": "LOWEST PART",
+      "categoryVerified": true,
+      "words": [
+        "BASE",
+        "BOTTOM",
+        "FOOT",
+        "FOUNDATION"
+      ],
+      "hint": "What a thing stands or rests on: the underside of a hill, a page, a wall or a building.",
+      "explanation": "All four words can mean the very lowest section of something, as in the ___ of a mountain or the ___ of the stairs. A building's foundation and a column's base both sit right at ground level.",
+      "redHerrings": [
+        {
+          "word": "VOLLEY",
+          "why": "Swap one letter and it becomes VALLEY, a low place, but that trick ties it to the wordplay set rather than this one."
+        },
+        {
+          "word": "TOUCHDOWN",
+          "why": "A plane's touchdown is the moment it reaches the ground, which sounds low, but here it's a football scoring play."
+        }
+      ]
+    },
+    {
+      "color": "purple",
+      "colorVerified": true,
+      "category": "LOW LANDFORMS WITH A LETTER CHANGED",
+      "categoryVerified": true,
+      "words": [
+        "CANNON",
+        "FORGE",
+        "RACINE",
+        "VOLLEY"
+      ],
+      "hint": "Swap a single letter in each word and you'll find somewhere a river might carve its way through.",
+      "explanation": "This is a wordplay group: change one letter in each word and it becomes a sunken feature of the landscape. CANNON becomes CANYON, FORGE becomes GORGE, RACINE becomes RAVINE, and VOLLEY becomes VALLEY. The original meanings of the words have nothing to do with each other.",
+      "redHerrings": [
+        {
+          "word": "FOOT",
+          "why": "The foot of a hill sounds like geography, but it belongs with the words for the underside of something."
+        },
+        {
+          "word": "BASE",
+          "why": "The base of a mountain feels like a landform clue, but no single-letter swap turns it into one."
+        }
+      ]
+    }
+  ]
+}
